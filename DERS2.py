@@ -1,3 +1,4 @@
-x = 1
-print ("Mert")
-print x 
+import datetime
+print("Bugün:", datetime.date.today())
+
+#from datetime import datetime
